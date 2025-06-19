@@ -43,4 +43,4 @@ Once you are in this directory, read the README file located there and follow th
 Name: Adrian Dominguez Sánchez
 
 ## Special thanks
-I would like to sincerely thank my professors https://github.com/TiiZss for their visionary guidance and trust in my project, which has been invaluable for its development and future prospects.
+I would like to sincerely thank my professors https://github.com/TiiZss and for their visionary guidance and trust in my project, which has been invaluable for its development and future prospects.
